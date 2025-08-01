@@ -37,3 +37,12 @@ This is a **web-based Tourism Management System** designed as a college project.
 
 1. Install [XAMPP](https://www.apachefriends.org/)
 2. Clone this repository:
+3. Copy the project folder to `htdocs` inside the XAMPP directory
+4. Create the tables in phpmyadmin and connect them.
+5. Start **Apache** and **MySQL** from XAMPP
+6. Visit:  
+- `http://localhost/your-project-folder/`  
+- `http://localhost/your-project-folder/admin/` for admin panel
+
+
+
