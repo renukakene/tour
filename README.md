@@ -50,13 +50,12 @@ This is a **web-based Tourism Management System** designed as a college project.
 ## 🔐 Admin Credentials (for demo)
 
 Username: admin
+
 Password: admin123
 
 
 🔒 **(Change these credentials in production)**
 
-
- 📄 License
 
 This project is for **educational purposes only**. You may use or modify it for your learning or personal use.
 
